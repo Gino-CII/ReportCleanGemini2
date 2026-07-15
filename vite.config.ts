@@ -9,5 +9,5 @@ export default defineConfig({
   ],
 
   // GitHub Pages 專案網站路徑
-  base: '/GeminiReportGemini2/',
+  base: '/ReportCleanGemini2/',
 })
